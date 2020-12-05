@@ -1,2 +1,2 @@
 # Stock-Market-Forecasting-Project
-The aim of the project is to analysing the historical stock market data and making Time Series Forecasting using ARIMA model. Data source: Dow Jones Historical Data from year 200 0 to 2019
+The project focus on time series data analysis, visualisation and predicted future stock prices using ARIMA model, with a major focus on testing different ways of turning a time series stationary. This project makes heavy use of NumPy, Pandas, and matplotlib Libraries.
